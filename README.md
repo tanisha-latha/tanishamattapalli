@@ -1,4 +1,4 @@
-# tanishamattapalli
+# Tanisha Mattapalli 
 
 # Hey there!
 
@@ -10,4 +10,6 @@ I'm a CS + Business student passionate about developer tools, AI workflows, and 
 - LocaLoyalty – Full-stack analytics-enabled app (iOS + Web), 1,000+ MAUs
 - Python-based live market data pipelines using Databento & Rotman Trader
 - ML experimentation with TensorFlow/Keras
+
+
 
